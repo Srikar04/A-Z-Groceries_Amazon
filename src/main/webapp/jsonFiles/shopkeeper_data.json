@@ -1,0 +1,52 @@
+{"Amazon": {"ShopkeeperList": {"Shopkeeper": [
+    {
+        "Name": "Srikar_shop",
+        "ProductList": {"Product": [
+            {
+                "Id": "Tea",
+                "Quantity": 11
+            },
+            {
+                "Id": "Cumin Seeds",
+                "Quantity": 1
+            },
+            {
+                "Id": "Apple",
+                "Quantity": 1
+            },
+            {
+                "Id": "Cooking Oil",
+                "Quantity": 10
+            },
+            {
+                "Id": "Ghee",
+                "Quantity": 2
+            }
+        ]}
+    },
+    {
+        "Name": "Sid_shop",
+        "ProductList": {"Product": [
+            {
+                "Id": "Apple",
+                "Quantity": 3
+            },
+            {
+                "Id": "Spices",
+                "Quantity": 1
+            },
+            {
+                "Id": "Potatoes",
+                "Quantity": 65
+            },
+            {
+                "Id": "Milk",
+                "Quantity": 40
+            },
+            {
+                "Id": "Sugar",
+                "Quantity": 1
+            }
+        ]}
+    }
+]}}}

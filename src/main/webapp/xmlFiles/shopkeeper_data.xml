@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Amazon>
+  <ShopkeeperList>
+    <Shopkeeper>
+      <Name>Srikar_shop</Name>
+      <ProductList>
+        <Product>
+          <Id>Tea</Id>
+          <Quantity>11</Quantity>
+        </Product>
+        <Product>
+          <Id>Cumin Seeds</Id>
+          <Quantity>1</Quantity>
+        </Product>
+        <Product>
+          <Id>Apple</Id>
+          <Quantity>1</Quantity>
+        </Product>
+        <Product>
+          <Id>Cooking Oil</Id>
+          <Quantity>10</Quantity>
+        </Product>
+        <Product>
+          <Id>Ghee</Id>
+          <Quantity>2</Quantity>
+        </Product>
+      </ProductList>
+    </Shopkeeper>
+    <Shopkeeper>
+      <Name>Sid_shop</Name>
+      <ProductList>
+        <Product>
+          <Id>Apple</Id>
+          <Quantity>3</Quantity>
+        </Product>
+        <Product>
+          <Id>Spices</Id>
+          <Quantity>1</Quantity>
+        </Product>
+        <Product>
+          <Id>Potatoes</Id>
+          <Quantity>65</Quantity>
+        </Product>
+        <Product>
+          <Id>Milk</Id>
+          <Quantity>40</Quantity>
+        </Product>
+        <Product>
+          <Id>Sugar</Id>
+          <Quantity>1</Quantity>
+        </Product>
+      </ProductList>
+    </Shopkeeper>
+  </ShopkeeperList>
+</Amazon>
