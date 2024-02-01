@@ -1,9 +1,10 @@
-**Online Grocery Shopping Website**
+***Online Grocery Shopping Website***
 
 🛒 **Introduction**
 Welcome to our Online Grocery Shopping Website! This project aims to provide a convenient platform for customers to shop for groceries, shopkeepers to manage their inventory, and Amazon to handle product transfers efficiently.
 
 🚀 **Getting Started**
+
 To run this project locally, you'll need to have Java installed on your system. Clone this repository to your local machine and open it in your preferred IDE. Ensure that you have a Java server configured to run Java Server Pages (JSP) and Servlets.
 
 🌐 **Technologies Used**
